@@ -37,13 +37,18 @@
         "explore": {
             "title": "探索",
             "domains": "域",
-            "community": "社区",
+            "communities": "社区",
+            "peoples": "人们",
             "createNew": "创建新的",
             "createNewCommunity": {
                 "title": "创建新的社区",
-                "desc1": "创建一个新的信息流在 ",
+                "desc1": "创建一个新的社区在 ",
                 "desc2": " 上，使用以下设置。"
             }
+            "reroll": "重新抽选",
+            "searchForPeoples": "输入想要搜索的人",
+            "searchForCommunities": "输入想要搜索的社区",
+            "quicklook": "快速浏览"
         },
         "devtool": {
             "title": "开发者工具"
@@ -127,6 +132,7 @@
             "community": "社区",
             "user": "用户",
             "pin": "固定",
+            "isIconTab": "使用图标选项卡",
             "delete": "删除",
             "reallyDelete": "确定要删除这个列表吗？",
             "confirmDelete": "确定"
