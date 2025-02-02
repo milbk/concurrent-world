@@ -157,7 +157,7 @@
             "basic": "基本",
             "showEditorOnTop": "在頂部顯示編輯器",
             "showEditorOnTopMobile": "在頂部顯示編輯器（行動裝置）",
-            "autoSwitchMediaType": "附加圖片時自動切換貼文類型",
+            "autoSwitchMediaPostType": "附加圖片時自動切換貼文類型",
             "developerMode": "開發者模式",
             "generateInviteCode": "產生邀請碼",
             "inviteCode": "邀請碼（24 小時內有效）",

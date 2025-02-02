@@ -157,7 +157,7 @@
             "basic": "基本",
             "showEditorOnTop": "在顶部显示编辑器",
             "showEditorOnTopMobile": "在顶部显示编辑器（移动端）",
-            "autoSwitchMediaType": "附加图片时自动切换帖子类型",
+            "autoSwitchMediaPostType": "附加图片时自动切换帖子类型",
             "developerMode": "开发者模式",
             "generateInviteCode": "生成邀请码",
             "inviteCode": "邀请码（24 小时内有效）",

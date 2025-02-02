@@ -157,7 +157,7 @@
             "basic": "Basic",
             "showEditorOnTop": "Show editor on top",
             "showEditorOnTopMobile": "Show editor on top (mobile)",
-            "autoSwitchMediaType": "Automatically switch the post type when an image is attached",
+            "autoSwitchMediaPostType": "Automatically switch the post type when an image is attached",
             "developerMode": "Developer mode",
             "generateInviteCode": "Generate invite code",
             "inviteCode": "Invite code (valid for 24 hours)",
