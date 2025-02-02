@@ -36,14 +36,19 @@
         },
         "explore": {
             "title": "探索",
-            "domains": "網域",
+            "communities": "網域",
+            "peoples": "人們",
             "community": "社群",
             "createNew": "建立新的",
             "createNewCommunity": {
                 "title": "建立新社群",
-                "desc1": "建立一個新的資訊流在 ",
+                "desc1": "建立一個新的社群在 ",
                 "desc2": " 上，使用以下設定。"
-            }
+            },
+            "reroll": "重新抽選",
+            "searchForPeoples": "輸入想要搜尋的人",
+            "searchForCommunities": "輸入想要搜尋的社群",
+            "quicklook": "快速瀏覽"
         },
         "devtool": {
             "title": "開發者工具"
@@ -127,6 +132,7 @@
             "community": "社群",
             "user": "使用者",
             "pin": "釘選",
+            "isIconTab": "使用圖示選項卡",
             "delete": "刪除",
             "reallyDelete": "確定要刪除這個清單嗎？",
             "confirmDelete": "確定"
